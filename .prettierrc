@@ -1,0 +1,11 @@
+# .prettierrc or .prettierrc.yaml
+tabWidth: 2
+semi: false
+singleQuote: true
+arrowParens: "always"
+bracketSpacing: true
+endOfLine: "lf"
+ignorePath: ".prettierignore"
+printWidth: 80
+proseWrap: "preserve"
+quoteProps: "consistent"
